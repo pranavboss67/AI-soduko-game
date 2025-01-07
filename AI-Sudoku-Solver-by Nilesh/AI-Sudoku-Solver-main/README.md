@@ -1,6 +1,6 @@
 **********************************
 Author:   Nilesh Mahale
-Course:   Comp 131 - Intro AI
+Course:   Comp 131 
 Prof:     Santini
 
 Assign:   Constraint Satisfaction Problems
